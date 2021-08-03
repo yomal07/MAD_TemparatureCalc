@@ -1,3 +1,3 @@
 # MAD_TemparatureCalc
-## Yomal
+## My first android app
 
