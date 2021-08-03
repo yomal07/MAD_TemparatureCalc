@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Temparature Calculator</string>
+    <string name="eText">Enter Temparature</string>
+    <string name="btn_celcius">Celcius</string>
+    <string name="btn_fahrenhite">Fahrenhite</string>
+    <string name="btn_calc">Calculate</string>
 </resources>
